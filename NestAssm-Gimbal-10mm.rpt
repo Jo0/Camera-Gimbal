@@ -1,0 +1,62 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : NestAssm-Gimbal-10mm.SLDASM
+Receiving System Product I.D.: NestAssm-Gimbal-10mm.SLDASM
+File Name                    : C:\Users\Jo0\Dropbox\Gimbal\My Gimbal\NestAssm-Gimbal-10mm.IGS
+Sending System               : SolidWorks 2014
+Preprocessor Version         : SolidWorks 2014
+File Creation Date           : 140413.150258
+Model Creation Date          : 140413.150258
+Units                        : MM
+Model Space Scale            : 1
+Author                       : Jo0
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              10
+  Highest number of significant digits:                     14
+  Average number of significant digits:                7.58363
+  Maximum distance to origin:                           26.671
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   14
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                            324       324
+110  Line                                           490       490
+124  Transformation matrix                          251       251
+308  Subfigure definition                             5         5
+314  Color definition                                 1         1
+408  Singular subfigure instance                     13        13
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       0
+Surface feature(s)                     0
+Curve/Sketch feature(s)                814
+--------------------------------------------
+Start time: Tuesday, April 22, 2014 14:27:12
+Finish time: Tuesday, April 22, 2014 14:27:15
+Processing time: 0 days, 00 hours, 00 mins, 03 secs
