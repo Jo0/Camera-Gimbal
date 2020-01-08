@@ -53,7 +53,7 @@ I was able to cut costs on materials by
   - Not having multiple prototypes and only machining when the design was "finalized"
   - Not picking a more established gimbal controller
     - I chose the EvvGC gimbal controller due to the cost of the electronics (~$45) and that it was opensource
-    - The other gimbal controller available at the time was the [AlexMos SimpleBGC Controller](https://shop.basecamelectronics.com/) (~$150) and the various clone boards available at the time (~$50)
+    - The other gimbal controller available at the time was the [AlexMos SimpleBGC Controller](https://shop.basecamelectronics.com/) ($150) and the various clone boards available at the time ($50)
       - I didn't want to take a chance on the clone boards due to reports on questionable compatibility on the software to interface with the controller at the time
 
 ### 4. There's more to a gimbal than just a frame, brushless motors, and a controller
