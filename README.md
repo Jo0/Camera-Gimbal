@@ -10,6 +10,8 @@ I took it upon myself to see if I could design and create my own. My girlfriend'
 
 - 6061T6 Aluminium Sheet .190" thick
 - 6061T6 Aluminium Sheet .750" diameter .125" thick wall
+- M3 machine screws
+- 685 2RS Premium ABEC3 Bearing 5 x 11 x 5 mm
 - 3 x Turnigy HD 5208 Brushless Gimbal Motor
 - Turnigy 2200mAh 3S 25C Lipo Pack
 - EvvGC 1.3 Gimbal Controller Board with IMU (Inertial Measurement Unit)
